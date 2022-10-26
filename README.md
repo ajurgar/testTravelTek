@@ -6,12 +6,12 @@ The app can also display flight information on the frontend via React.
 
 How to Run the application Localy:
 
-After cloning the repository, run "npm install" on backend folder.
-Ensure MongoDB server is running and run node seeds.js.
-Start the back end running command "npm start" on backend folder.
-Run "npm install" in the traveltekfrontend folder.
-Start the front end running command "npm start" on traveltekfrontend folder.
+* After cloning the repository, run "npm install" on backend folder.
+* Ensure MongoDB server is running and run node seeds.js.
+* Start the back end running command "npm start" on backend folder.
+* Run "npm install" in the traveltekfrontend folder.
+* Start the front end running command "npm start" on traveltekfrontend folder.
 
-##Notes:
+## Notes:
 All the questions are answered via API endpoints on backend.
 
