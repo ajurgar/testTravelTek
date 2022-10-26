@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+  h1{
+    color: #61dafb;
+    background-color: #282c34;
+    padding: 30px;
+    margin-top: 0;
+  }
+
+  .flights{
+    display: block;
+    border: 1px solid black;
+    margin: 30px 500px ;
+    border-radius: 10px;
+    background-color:#282c34;
+    color: aliceblue;
+  }
